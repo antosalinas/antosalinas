@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antosalinas&show_icons=true&theme=radical&hide_border=true" width="48%" height="191px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antosalinas&theme=radical&hide_border=true" width="48%" height="220px"/>
 </p>
 
 <br/>
