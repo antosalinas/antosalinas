@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Anto Salina S
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F73D3D&center=true&vCenter=true&width=495&lines=Exploring+IoT%2C+Automation+%26+Intelligent+Systems+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F73D3D&center=true&vCenter=true&width=640&lines=Exploring+IoT%2C+Automation+%26+Intelligent+Systems+%F0%9F%9A%80)
 
 ### 🚀 Electronics & Communication Engineering Undergraduate | 🔧 Embedded & IoT Developer | 💡 Innovator
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-AntoSalina-white?style=for-the-badge&logo=google-chrome)](https://antosalina.netlify.app)  
 [![Gmail](https://img.shields.io/badge/Gmail-antosalinas354@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:antosalinas354@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntoSalina-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntoSalina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anto-salina-s-4b1456255 )  
 
 ---
 
@@ -20,25 +21,25 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonsalinas&theme=react-dark&hide_border=true&area=true&custom_title=Anto%20Salina's%20GitHub%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antosalinas&theme=react-dark&hide_border=true&area=true&custom_title=Anto%20Salina's%20GitHub%20Activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonsalinas&show_icons=true&theme=radical&hide_border=true" width="48%" height="191px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonsalinas&theme=radical&hide_border=true" width="48%" height="220px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antosalinas&show_icons=true&theme=radical&hide_border=true" width="48%" height="191px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antosalinas&theme=radical&hide_border=true" width="48%" height="220px"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsalinas&layout=compact&theme=radical&hide_border=true" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antosalinas&layout=compact&theme=radical&hide_border=true" width="48%" height="200px"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=antonsalinas&theme=algolia&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=antosalinas&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
