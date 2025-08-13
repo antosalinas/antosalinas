@@ -5,8 +5,8 @@
 ### 🚀 Electronics & Communication Engineering Undergraduate | 🔧 Embedded & IoT Developer | 💡 Innovator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AntoSalina-white?style=for-the-badge&logo=google-chrome)](https://antosalina.netlify.app)  
-[![Gmail](https://img.shields.io/badge/Gmail-antosalinas354@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:antosalinas354@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntoSalina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anto-salina-s-4b1456255 )  
+[![Gmail](https://img.shields.io/badge/Gmail-antosalinas354@gmail.com-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=antosalinas354@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntoSalina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anto-salina-s-4b1456255)  
 
 ---
 
